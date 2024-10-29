@@ -25,5 +25,5 @@ message GetUserDataResponse {
 	string language = 11;
 	string email_address = 12;
 	string tier_name = 13;
-	PNIDPermissionFlags permissions = 14;
+	RNIDPermissionFlags permissions = 14;
 }
