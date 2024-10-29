@@ -8,7 +8,7 @@ import "google/protobuf/empty.proto";
 import "get_user_data_rpc.proto";
 import "get_nex_password_rpc.proto";
 import "get_nex_data_rpc.proto";
-import "update_pnid_permissions.proto";
+import "update_rnid_permissions.proto";
 import "exchange_token_for_user_data.proto";
 
 service Account {
