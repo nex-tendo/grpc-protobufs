@@ -4,3 +4,8 @@ gRPC protobuf definitions for Retendo micro-services
 
 ## Structure
 Each folder contains the protobuf definitions for the *server* intended on receiving the requests. Meaning, for example, `account` contains protobuf files intended for requests to the account server
+
+# Credits
+- Zac_XGamer
+- Jon Barrow
+- DaniElectra
