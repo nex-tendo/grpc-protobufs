@@ -15,6 +15,6 @@ service Account {
 	rpc GetUserData(GetUserDataRequest) returns (GetUserDataResponse) {}
 	rpc GetNEXPassword(GetNEXPasswordRequest) returns (GetNEXPasswordResponse) {}
 	rpc GetNEXData(GetNEXDataRequest) returns (GetNEXDataResponse) {}
-	rpc UpdatePNIDPermissions(UpdatePNIDPermissionsRequest) returns (google.protobuf.Empty) {}
+	rpc UpdateRNIDPermissions(UpdateRNIDPermissionsRequest) returns (google.protobuf.Empty) {}
 	rpc ExchangeTokenForUserData(ExchangeTokenForUserDataRequest) returns (GetUserDataResponse) {}
 }

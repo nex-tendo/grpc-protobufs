@@ -8,5 +8,5 @@ import "rnid_permission_flags.proto";
 
 message UpdateRNIDPermissionsRequest {
 	uint32 pid = 1;
-	PNIDPermissionFlags permissions = 2;
+	RNIDPermissionFlags permissions = 2;
 }

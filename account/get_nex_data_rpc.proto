@@ -5,8 +5,8 @@ package account;
 option go_package = "./;grpc_account";
 
 enum DeviceType {
-	CTR = 0;
-	WUP = 1;
+	CTR = 0; //3DS
+	WUP = 1; // Wii U
 }
 
 message GetNEXDataRequest {
