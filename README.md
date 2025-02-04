@@ -6,5 +6,5 @@
 - Each folder contains the protobuf definitions of the *server* intended to receive the requests. This means, for example, `account` contains protobuf files for requests to the account server.
 
 ## Credits
-- Jon Barrow
+- Jonathan Barrow
 - DaniElectra
